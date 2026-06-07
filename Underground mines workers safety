@@ -1,4 +1,4 @@
-TITLE: AN IOT ENABLED PREDICTIVE SAFETY SYSTEM FOR UNDERGROUND MINES USING MACHINE LEARNING-BASED HAZARD DETECTION
+                    TITLE: AN IOT ENABLED PREDICTIVE SAFETY SYSTEM FOR UNDERGROUND MINES USING MACHINE LEARNING-BASED HAZARD DETECTION
 
 Underground mining is most hazardous activity due to presence of harmful gases. 
 This project aims to predict and detect potential hazards in underground mines.
@@ -8,6 +8,7 @@ This project presents an IoT-Enabled Predictive Safety System that combines Inte
 The system enhances miner safety through real-time environmental monitoring, cloud connectivity, and intelligent hazard detection.
 The system is built using an ESP32 microcontroller integrated with multiple sensors to collect environmental data such as methane concentration, carbon monoxide levels, nitrogen dioxide levels, temperature, humidity, and vibration. 
 The collected data is transmitted to the cloud for storage and analysis, while machine learning algorithms identify abnormal patterns and generate early warnings.
+
 🎯OBJECTIVES: 
 Monitor underground mine conditions in real time.
 Detect hazardous gas concentrations.
@@ -16,6 +17,7 @@ Apply machine learning techniques for hazard prediction.
 Generate early warnings and alerts for unsafe conditions.
 Enable remote monitoring through cloud connectivity.
 Improve worker safety and reduce mining accidents.
+
 🛠️HARDWARE COMPONENTS:
 ESP32 Microcontroller
 Methane (CH₄) Gas Sensor
@@ -26,12 +28,14 @@ MPU6050 Accelerometer Sensor
 Buzzer
 DC-DC Buck Converter
 Power Supply Unit
+
 💻SOFTWARE TOOLS:
 Arduino IDE
 Visual Studio Code
 Firebase Realtime Database
 MIT App Inventor
 Machine Learning Models
+
 ⚙️SYSTEM WORKFLOW: 
 Environmental sensors collect real-time data.
 ESP32 processes sensor readings.
@@ -42,6 +46,7 @@ Alerts are generated through:
 Buzzer
 Mobile Application Notifications
 Supervisors can remotely monitor mine conditions.
+
 🔍FEATURES:
 Real-time environmental monitoring
 Predictive hazard detection
@@ -51,6 +56,7 @@ Low power consumption
 Automatic alert generation
 Scalable IoT architecture
 Improved mining safety
+
 📊 MONITORED PARAMETERS
 Methane (CH₄)
 Carbon Monoxide (CO)
@@ -58,6 +64,7 @@ Nitrogen Dioxide (NO₂)
 Temperature
 Humidity
 Vibration and Motion
+
 📈 ADVANTAGES
 Early detection of hazardous conditions
 Reduced accident risks
@@ -66,6 +73,7 @@ Faster emergency response
 Real-time cloud monitoring
 Cost-effective deployment
 Scalable and reliable solution
+
 🌍 APPLICATIONS:
 Underground Mining
 Industrial Safety
@@ -75,6 +83,7 @@ Manufacturing Plants
 Tunnels
 Construction Sites
 Environmental Monitoring
+
 📊 RESULTS:
 The developed system successfully monitored environmental parameters and detected hazardous conditions in real time. 
 Machine learning-based analysis improved the accuracy of hazard detection and enabled predictive warnings before critical situations occurred.
