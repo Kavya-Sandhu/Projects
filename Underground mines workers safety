@@ -1,0 +1,6 @@
+TITLE: AN IOT ENABLED PREDICTIVE SAFETY SYSTEM FOR UNDERGROUND MINES USING MACHINE LEARNING-BASED HAZARD DETECTION
+
+Underground mining is most hazardous activity due to presence of harmful gases. 
+This project aims to predict and detect potential hazards in underground mines.
+Various sensors such as SO2, CO, NO2 and MPU6050 accelerometer are used to detect toxic gases.
+By using IOT sensors & ML models, we can enhance worker safety and prevent accidents.
